@@ -247,8 +247,6 @@ OUTPUT :
 
 <img width="356" alt="image" src="https://github.com/AlluguriSrikrishnateja/cryptography_19CS412_classical_techniques/assets/118343892/dc34a668-eaa6-43ef-ad40-c2e971429816">
 
-<img width="529" alt="image" src="https://github.com/user-attachments/assets/f1773751-9251-45e0-9818-67219e145463">
-
 
 
 
